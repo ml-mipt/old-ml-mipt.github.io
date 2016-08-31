@@ -1,11 +1,10 @@
 # Site settings
-title: CS231n Convolutional Neural Networks for Visual Recognition
-email: karpathy@cs.stanford.edu
-description: "Course materials and notes for Stanford class CS231n: Convolutional Neural Networks for Visual Recognition."
+title: Maсhine Learning
+email: ml.course.mipt@gmail.com
+description: "Moscow Institute of Physics and Technology"
 baseurl: ""
-url: "http://cs231n.github.io"
-twitter_username: cs231n
-github_username:  cs231n
+url: "http:///ml-mipt.github.io"
+github_username:  ml-mipt
 
 # Build settings
 markdown: kramdown
@@ -16,4 +15,3 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
-
