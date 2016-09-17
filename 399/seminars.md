@@ -10,8 +10,8 @@ permalink: /399/
 <ul>
   <li>Необходимо прислать два файла - ipynb и его pdf-версию. Получить pdf-версию можно ”печатью страницы в файл”. Известно, что данная процедура корректно работает в Яндекс.Браузере и часто работает некорректно в Firefox.</li>
   <li>Внимательно обратите внимание на полученную pdf-версию. Никакая информация не должна выходить за видимую область. Допускается ”разрезание” некоторой информации на два листа.</li>
-  <li>Присылайте выполненное задание на почту ``probability.diht@yandex.ru``</li>
-  <li>Укажите тему письма в следующем формате ``[ML 399] <фамилия> - <что за задание>``, к примеру -- ``[ML 399] Раздолбайников - Заданице 1``</li>
+  <li>Присылайте выполненное задание на почту ```probability.diht@yandex.ru```</li>
+  <li>Укажите тему письма в следующем формате ```[ML 399] <фамилия> - <что за задание>```, к примеру -- ```[ML 399] Раздолбайников - Заданице 1```</li>
 </ul>
 
 
@@ -25,11 +25,11 @@ permalink: /399/
     </div>
     <div style="text-align: left">
         Бустинг, градиентный бустинг, AdaBoost:
-        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/399/seminars/2/2.1.ipynb">ipynb</a>, <link href=""><br/>
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/399/seminars/2/2.1.ipynb">ipynb</a> <link href=""><br/>
         Bias-variance разложение, Беггинг:
-        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/399/seminars/2/2.1.ipynb">ipynb</a>, <link href=""><br/>
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/399/seminars/2/2.1.ipynb">ipynb</a> <link href=""><br/>
         <b>ДЗ:</b>
-        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/399/hw/2/hw2.ipynb">ipynb</a>, 
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/399/hw/2/hw2.ipynb">ipynb</a> 
         (дедлайн <font color="red">22.09 23:59</font>)
     </div>
 
