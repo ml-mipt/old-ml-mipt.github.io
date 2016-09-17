@@ -21,7 +21,7 @@ permalink: /399/
     <div class="module-header">Материалы</div>
 
     <div class="materials-item">
-      <font size="2" color="blue">03.09</font> Семинар 2
+      <font size="5" color="blue">16.09</font> Семинар 2
     </div>
     <div style="text-align: left">
         Бустинг, градиентный бустинг, AdaBoost:
