@@ -8,7 +8,7 @@ permalink: /399/
 
 #### Пятница, 12:20, 213 ЛК
 
-<a font=12 href=https://docs.google.com/spreadsheets/d/1ihJ8sQ8xF_LLSBUN-36mcC8YlFXScqF-RZ7QcERZrGo/edit#gid=1380258266>Результаты</a>
+<font size="5"><a href=https://docs.google.com/spreadsheets/d/1ihJ8sQ8xF_LLSBUN-36mcC8YlFXScqF-RZ7QcERZrGo/edit#gid=1380258266>Результаты</a></font>
 
 **Оформление дз**:
 <ul>
