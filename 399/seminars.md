@@ -36,6 +36,15 @@ permalink: /399/
         <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/399/hw/2/hw2.ipynb">ipynb</a> 
         (дедлайн <font color="red">22.09 23:59</font>), обратите внимание на вспомогательные <a href="https://github.com/ml-mipt/ml-mipt-part2/tree/master/399/hw/2">файлы</a>.
     </div>
+    
+    <div class="materials-item">
+      <font size="5" color="blue">16.09</font> Семинар 3
+    </div>
+    <div style="text-align: left">
+        <b>ДЗ:</b>
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/home_works/hw03_model_selection/task3.ipynb">ipynb</a> 
+        (дедлайн <font color="red">29.09 23:59</font>)
+    </div>
 
    
 
