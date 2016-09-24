@@ -41,6 +41,8 @@ permalink: /399/
       <font size="5" color="blue">16.09</font> Семинар 3
     </div>
     <div style="text-align: left">
+        Критерии качества моделей, отбор признаков
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/399/seminars/3/3.ipynb">ipynb</a> <link href=""><br/>
         <b>ДЗ:</b>
         <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/home_works/hw03_model_selection/task3.ipynb">ipynb</a> 
         (дедлайн <font color="red">29.09 23:59</font>)
