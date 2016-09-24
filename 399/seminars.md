@@ -38,7 +38,7 @@ permalink: /399/
     </div>
     
     <div class="materials-item">
-      <font size="5" color="blue">16.09</font> Семинар 3
+      <font size="5" color="blue">23.09</font> Семинар 3
     </div>
     <div style="text-align: left">
         Критерии качества моделей, отбор признаков
