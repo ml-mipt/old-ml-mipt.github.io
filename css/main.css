@@ -489,3 +489,19 @@ a:visited { color: #205caa; }
     margin: 0 0 15px; }
 
 }
+
+ul {
+    list-style: none; /* Remove list bullets */
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    padding-left: 20px;
+}
+
+li:before {
+    content: "•"; /* Insert content that looks like bullets */
+    padding-right: 8px;
+    color: blue; /* Or a color you prefer */
+}
