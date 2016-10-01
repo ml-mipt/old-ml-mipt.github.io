@@ -25,7 +25,7 @@ permalink: /399/
     <div class="module-header">Материалы</div>
     
     <div class="materials-item">
-      <font size="5" color="blue">09.09</font> Семинар 1
+      <font size="5" color="blue">09.09</font> 
     </div>
     <div style="text-align: left">
         EM-алгоритм.<br/>
