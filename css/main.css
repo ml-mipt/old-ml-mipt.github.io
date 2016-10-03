@@ -63,6 +63,13 @@ a:visited { color: #205caa; }
   background-color: #f7f6f1;
 }
 
+.hw-item {
+  border-bottom: 1px solid #CCC;
+}
+.hw-item:nth-child(even) {
+  background-color: #ff4040;
+}
+
 /* Custom CSS rules for content */
 
 .embedded-video {
