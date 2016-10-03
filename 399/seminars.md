@@ -23,6 +23,16 @@ permalink: /399/
   <div class="materials-wrap">
 
     <div class="module-header">Материалы</div>
+    
+    <div class="materials-item">
+      <font size="5" color="blue">09.09</font> Семинар 1
+    </div>
+    <div style="text-align: left">
+        EM-алгоритм.<br/>
+        <b>ДЗ:</b>
+        <a href="https://yadi.sk/i/44ReAHVvw38R5">pdf</a> 
+        (дедлайн <font color="red">19.09 23:59</font>)
+    </div>
 
     <div class="materials-item">
       <font size="5" color="blue">16.09</font> Семинар 2
@@ -46,6 +56,16 @@ permalink: /399/
         <b>ДЗ:</b>
         <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/home_works/hw03_model_selection/task3.ipynb">ipynb</a> 
         (дедлайн <font color="red">29.09 23:59</font>, отправляем на яндексовую почту)
+    </div>
+    
+    <div class="materials-item">
+      <font size="5" color="blue">30.09</font> Семинар 4
+    </div>
+    <div style="text-align: left">
+        Теория Вапника-Червоненкиса: равномерная сходимость частот к вероятностям, средних к математическому ожиданию.<br/>
+        <b>ДЗ:</b>
+        <a href="https://yadi.sk/i/2rIVCpWiw389V">pdf</a> 
+        (дедлайн <font color="red">06.10 23:59</font>, или можно принести на семинар)
     </div>
 
    
