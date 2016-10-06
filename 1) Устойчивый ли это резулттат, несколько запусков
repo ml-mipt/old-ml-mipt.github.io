@@ -1,0 +1,18 @@
+1) Устойчивый ли это резулттат, несколько запусков:  2 архитектуры (конв и не конв), 2 датасета (cifar, svhn)
+2) Из за чего это может происходить 
+	- Ошибка
+	- Дисперсия градиента
+	- Градчек-то проходит?
+
+import theano
+import numpy as np
+from theano import tensor as T
+
+a, I, W = 1.0, T.matrix(), T.matrix()
+sigma = T.sqrt(a * T.dot(I * I, W * W))
+sigma = T.switch(T.le(sigma, 1e-16), 1e-16, sigma)
+sigma = theano.function([I, W], sigma)
+
+i, w = np.zeros((10, 11))+1e-10, np.zeros((11, 10))+1e-10
+i[0, 0] = 1000000000000
+sigma(i, w)
