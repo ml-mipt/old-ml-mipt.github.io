@@ -44,7 +44,7 @@ permalink: /399/
         <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/399/seminars/2/2.1.ipynb">ipynb</a> <link href=""><br/>
         <b>ДЗ:</b>
         <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/399/hw/2/hw2.ipynb">ipynb</a> 
-        (дедлайн <font color="red">22.09 23:59</font>), обратите внимание на вспомогательные <a href="https://github.com/ml-mipt/ml-mipt-part2/tree/master/399/hw/2">файлы</a>.
+        (дедлайн <font color="red">22.09 23:59</font>), обратите внимание на вспомогательные <a href="https://github.com/ml-mipt/ml-mipt-part2/tree/master/2016/399/hw/2">файлы</a>.
     </div>
     
     <div class="materials-item">
