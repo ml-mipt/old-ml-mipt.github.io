@@ -39,12 +39,12 @@ permalink: /399/
     </div>
     <div style="text-align: left">
         Бустинг, градиентный бустинг, AdaBoost:
-        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/399/seminars/2/2.1.ipynb">ipynb</a> <link href=""><br/>
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/399/seminars/2/2.1.ipynb">ipynb</a> <link href=""><br/>
         Bias-variance разложение, Беггинг:
-        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/399/seminars/2/2.1.ipynb">ipynb</a> <link href=""><br/>
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/399/seminars/2/2.1.ipynb">ipynb</a> <link href=""><br/>
         <b>ДЗ:</b>
-        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/399/hw/2/hw2.ipynb">ipynb</a> 
-        (дедлайн <font color="red">22.09 23:59</font>), обратите внимание на вспомогательные <a href="https://github.com/ml-mipt/ml-mipt-part2/tree/master/399/hw/2">файлы</a>.
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/399/hw/2/hw2.ipynb">ipynb</a> 
+        (дедлайн <font color="red">22.09 23:59</font>), обратите внимание на вспомогательные <a href="https://github.com/ml-mipt/ml-mipt-part2/tree/master/2016/399/hw/2">файлы</a>.
     </div>
     
     <div class="materials-item">
@@ -52,9 +52,9 @@ permalink: /399/
     </div>
     <div style="text-align: left">
         Критерии качества моделей, отбор признаков
-        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/399/seminars/3/3.ipynb">ipynb</a> <link href=""><br/>
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/399/seminars/3/3.ipynb">ipynb</a> <link href=""><br/>
         <b>ДЗ:</b>
-        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/home_works/hw03_model_selection/task3.ipynb">ipynb</a> 
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/home_works/hw03_model_selection/task3.ipynb">ipynb</a> 
         (дедлайн <font color="red">29.09 23:59</font>, отправляем на яндексовую почту)
     </div>
     
