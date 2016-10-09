@@ -51,7 +51,7 @@ permalink: /399/
       <font size="5" color="blue">23.09</font> Семинар 3
     </div>
     <div style="text-align: left">
-        Критерии качества моделей, отбор признаков
+        Критерии качества моделей, отбор признаков:
         <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/399/seminars/3/3.ipynb">ipynb</a> <link href=""><br/>
         <b>ДЗ:</b>
         <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/home_works/hw03_model_selection/task3.ipynb">ipynb</a> 
@@ -68,7 +68,22 @@ permalink: /399/
         (дедлайн <font color="red">06.10 23:59</font>, или можно принести на семинар)
     </div>
 
-   
+       <div class="materials-item">
+      <font size="5" color="blue">07.10</font> Семинар 5
+    </div>
+    <div style="text-align: left">
+        Глубокое обучение:
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/seminars/sem05_deep_learning/01_backpropagation.ipynb">ipynb</a> <link href=""><br/>
+        Theano:
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/seminars/sem05_deep_learning/02_theano.ipynb">ipynb</a> <link href=""><br/>
+        Сверточные нейронные сети:
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/seminars/sem05_deep_learning/03_cnn.ipynb">ipynb</a> <link href=""><br/>
+        Рекуррентные нейронные сети:
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/seminars/sem05_deep_learning/04_rnn.ipynb">ipynb</a> <link href=""><br/>
+        <b>ДЗ:</b>
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/home_works/hw05_deep_learning_rnn/homework.ipynb">ipynb</a> 
+        (дедлайн <font color="red">13.10 23:59</font>, отправляем на яндексовую почту)
+    </div>
 
   </div>
 </div>
