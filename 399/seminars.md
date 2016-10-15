@@ -84,6 +84,25 @@ permalink: /399/
         <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/home_works/hw05_deep_learning_rnn/homework.ipynb">ipynb</a> 
         (дедлайн <font color="red">13.10 23:59</font>, отправляем на яндексовую почту)
     </div>
+    
+    
+    <div class="materials-item">
+      <font size="5" color="blue">14.10</font> Семинар 6
+    </div>
+    <div style="text-align: left">
+        Приложения современного машинного обучения в музыке:
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/contest/01_music/sem_plan/deep_nn_for_music%20(ru).pdf">pdf</a> (рус), <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/contest/01_music/sem_plan/deep_nn_for_music.pdf">pdf</a> (en) <link href=""><br/>
+        <b>ДЗ:</b>
+        <a href="https://inclass.kaggle.com/c/mipt-ml-fall-2016-music">kaggle</a>, 
+    <a href="https://github.com/ml-mipt/ml-mipt-part2/raw/master/2016/contest/01_music/task_descr/task_description.pdf">описание</a>, 
+    <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/contest/01_music/task_descr/music_dnn_task.ipynb">стартовый код</a>
+    
+        (дедлайн <font color="red">22.10 23:59</font>)<br/>
+        
+        <div style="text-align: right">
+      Студенты, имеющие почту на домене <b>phystech.edu</b>, могут регистрироваться с ее помощью. Для тех, у кого нет почты на этом домене, сделан <a href="./misc/invitation_list.md">список ссылок с приглашениями</a>. Если вам не хватило приглашения, пришлите запрос на почту <tt>ml.course.mipt@gmail.com</tt>.
+    </div>
+    </div>
 
   </div>
 </div>
