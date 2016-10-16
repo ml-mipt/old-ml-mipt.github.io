@@ -100,8 +100,7 @@ permalink: /399/
     
         (дедлайн <font color="red">22.10 23:59</font>)<br/>
         
-        <div style="text-align: right">
-      <font size="2">Студенты, имеющие почту на домене <b>phystech.edu</b>, могут регистрироваться с ее помощью. Для тех, у кого нет почты на этом домене, сделан <a href="./misc/invitation_list.md">список ссылок с приглашениями</a>. Если вам не хватило приглашения, пришлите запрос на почту <tt>ml.course.mipt@gmail.com</tt>.</font>
+
     </div>
     </div>
 
