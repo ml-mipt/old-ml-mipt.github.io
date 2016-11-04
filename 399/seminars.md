@@ -99,10 +99,22 @@ permalink: /399/
     <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/contest/01_music/task_descr/music_dnn_task.ipynb">стартовый код</a>
     
         (дедлайн <font color="red">22.10 23:59</font>)<br/>
-        
-
     </div>
+    
+    
+        <div class="materials-item">
+      <font size="5" color="blue">28.10</font> Семинар 8
     </div>
+    <div style="text-align: left">
+        Графы:
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/seminars/sem07_graphs/Seminar%20Network%20Theory.ipynb">ipynb</a><br/>
+        <b>ДЗ:</b>
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/home_works/hw07_graphs/task7.ipynb">ipynb</a>,
+        <a href="https://inclass.kaggle.com/c/mipt-link-prediction">kaggle</a>
+        (дедлайн <font color="red">15.11 23:59 :( </font>)<br/>
+    </div>
+    
+    
 
   </div>
 </div>
