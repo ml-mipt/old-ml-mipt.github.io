@@ -111,7 +111,7 @@ permalink: /399/
         <b>ДЗ:</b>
         <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/home_works/hw07_graphs/task7.ipynb">ipynb</a>,
         <a href="https://inclass.kaggle.com/c/mipt-link-prediction">kaggle</a>
-        (дедлайн <font color="red">04.11 23:59</font>)<br/>
+        (дедлайн <font color="red">15.11 23:59 :( </font>)<br/>
     </div>
     
     
