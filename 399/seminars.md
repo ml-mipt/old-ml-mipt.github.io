@@ -115,6 +115,30 @@ permalink: /399/
     </div>
     
     
+            <div class="materials-item">
+      <font size="5" color="blue">11.11</font> Семинары 9, 10
+    </div>
+    <div style="text-align: left">
+        Временные ряды<br/>
+        <b>ДЗ:</b>
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/tree/master/2016/home_works/hw08_tsforecasting/data">hw</a>
+        (дедлайн <font color="red">18.11 23:59</font>)<br/>
+        <b>ДЗ:</b>
+        <a href="https://kaggle.com/join/miptmlautumn2016hw3">kaggle</a>,
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/tree/master/2016/contest/03_npforecasting/NPForecasting.ipnb">task description / start code</a>
+    </div>
+    
+    
+           <div class="materials-item">
+      <font size="5" color="blue">16.11</font> Семинар 11
+    </div>
+    <div style="text-align: left">
+        Ранжирование<br/>
+        <b>ДЗ:</b>
+        скоро
+        (дедлайн <font color="red">24.11 23:59</font>)<br/>
+    </div>
+    
 
   </div>
 </div>
