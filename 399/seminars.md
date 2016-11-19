@@ -133,9 +133,12 @@ permalink: /399/
       <font size="5" color="blue">16.11</font> Семинар 11
     </div>
     <div style="text-align: left">
-        Ранжирование<br/>
+        Ранжирование:
+        видео,
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/seminars/sem10_ranking/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80.pdf">pdf</a>,
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/seminars/sem10_ranking/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80.ipynb">ipynb</a><br/>
         <b>ДЗ:</b>
-        скоро
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/home_works/hw09_ranking/hw.ipynb">ipynb</a>
         (дедлайн <font color="red">24.11 23:59</font>)<br/>
     </div>
     
