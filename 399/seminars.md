@@ -125,7 +125,7 @@ permalink: /399/
         (дедлайн <font color="red">18.11 23:59</font>)<br/>
         <b>ДЗ:</b>
         <a href="https://kaggle.com/join/miptmlautumn2016hw3">kaggle</a>,
-        <a href="https://github.com/ml-mipt/ml-mipt-part2/tree/master/2016/contest/03_npforecasting/NPForecasting.ipnb">task description / start code</a>
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/tree/master/2016/contest/03_npforecasting">task description / start code</a> (дедлайн <font color="red">27.11 23:59</font>)
     </div>
     
     
