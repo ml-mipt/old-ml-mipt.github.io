@@ -134,7 +134,7 @@ permalink: /399/
     </div>
     <div style="text-align: left">
         Ранжирование:
-        лекция (<a href="https://www.youtube.com/watch?v=GctrEpJinhI">видео</a>),
+        лекция (<a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/lectures/Lec11-Ranking.pdf">текст</a>, <a href="https://www.youtube.com/watch?v=GctrEpJinhI">видео</a>),
       	  семинар (<a href="https://www.youtube.com/watch?v=GZmXKBzIfkA">видео</a>, <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/seminars/sem10_ranking/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80.pdf">pdf-часть</a>,  
           <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/seminars/sem10_ranking/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80.ipynb">ipynb-часть</a>),  <br/>
         <b>ДЗ:</b>
