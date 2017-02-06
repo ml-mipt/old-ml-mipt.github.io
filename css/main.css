@@ -497,6 +497,27 @@ a:visited { color: #205caa; }
 
 }
 
+
+#speakers .info {
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    height: 100px;
+}
+
+#speakers .photo {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto 10px;
+    border-radius: 50%;
+    overflow:hidden;
+    text-align: center;
+}
+
+#speakers .photo img {
+    width: 100px;
+}
+
 ul {
     list-style: none; /* Remove list bullets */
     padding: 0;
