@@ -498,14 +498,14 @@ a:visited { color: #205caa; }
 }
 
 
-#speakers .info {
+.info {
     font-size: 14px;
     line-height: 20px;
     text-align: center;
     height: 100px;
 }
 
-#speakers .photo {
+.photo {
     width: 100px;
     height: 100px;
     margin: 0 auto 10px;
@@ -514,7 +514,7 @@ a:visited { color: #205caa; }
     text-align: center;
 }
 
-#speakers .photo img {
+.photo img {
     width: 100px;
 }
 
