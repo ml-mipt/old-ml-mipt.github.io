@@ -115,6 +115,46 @@ permalink: /399/
     </div>
     
     
+            <div class="materials-item">
+      <font size="5" color="blue">11.11</font> Семинары 9, 10
+    </div>
+    <div style="text-align: left">
+        Временные ряды<br/>
+        <b>ДЗ:</b>
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/tree/master/2016/home_works/hw08_tsforecasting/data">hw</a>
+        (дедлайн <font color="red">18.11 23:59</font>)<br/>
+        <b>ДЗ:</b>
+        <a href="https://kaggle.com/join/miptmlautumn2016hw3">kaggle</a>,
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/tree/master/2016/contest/03_npforecasting">task description / start code</a> (дедлайн <font color="red">27.11 23:59</font>)
+    </div>
+    
+    
+           <div class="materials-item">
+      <font size="5" color="blue">16.11</font> Семинар 11
+    </div>
+    <div style="text-align: left">
+        Ранжирование:
+        лекция (<a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/lectures/Lec11-Ranking.pdf">текст</a>, <a href="https://www.youtube.com/watch?v=GctrEpJinhI">видео</a>),
+      	  семинар (<a href="https://www.youtube.com/watch?v=GZmXKBzIfkA">видео</a>, <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/seminars/sem10_ranking/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80.pdf">pdf-часть</a>,  
+          <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/seminars/sem10_ranking/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80.ipynb">ipynb-часть</a>),  <br/>
+        <b>ДЗ:</b>
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/home_works/hw09_ranking/hw.ipynb">ipynb</a>
+        (дедлайн <font color="red">24.11 23:59</font>)<br/>
+    </div>
+    
+               <div class="materials-item">
+      <font size="5" color="blue">25.11</font> Семинар 12
+    </div>
+    <div style="text-align: left">
+        Ранжирование:
+        <a href="https://github.com/ml-mipt/ml-mipt-part2/tree/master/2016/seminars/sem11_ranking_and_search">семинар</a>  <br/>
+        <b>ДЗ:</b>
+        <a href="https://inclass.kaggle.com/c/ml-mipt-ranking4">kaggle</a>,  
+	  <a href="https://kaggle.com/join/4uthnui9sndi">инвайт</a>,
+	    <a href="https://github.com/ml-mipt/ml-mipt-part2/blob/master/2016/contest/04_ranking/%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.ipynb">описание (upd)</a>
+	  (дедлайн <font color="red">17.12 23:59</font>)<br/>
+    </div>
+    
 
   </div>
 </div>
